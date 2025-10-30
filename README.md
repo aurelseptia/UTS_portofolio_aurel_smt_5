@@ -7,7 +7,7 @@ Aplikasi portofolio pribadi yang dikembangkan menggunakan React Native (Expo) un
 | Keterangan | Detail |
 | :--- | :--- |
 | **Nama** | Aurel Septia |
-| **NPM** | NPM |
+| **NPM** | 623C0006 |
 
 ***
 
